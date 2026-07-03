@@ -1,4 +1,4 @@
-# 
+# Exclusivo LogicFlow instalador. Descarga e instala con compatible con Python y verificación de compatibilidad — rápido, seguro y fácil de usar.
 
 
 
